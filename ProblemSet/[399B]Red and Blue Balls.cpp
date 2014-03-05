@@ -1,3 +1,6 @@
+/*
+Description: http://codeforces.com/problemset/problem/399/B
+*/
 #include <iostream>
 using namespace std;
 #define MAXN 100
